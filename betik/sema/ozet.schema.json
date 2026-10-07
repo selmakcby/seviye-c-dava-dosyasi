@@ -1,0 +1,53 @@
+{
+  "type": "object",
+  "properties": {
+    "kararlar": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {"type": "string"},
+          "karar_no": {"type": "string"},
+          "daire": {"type": "string"},
+          "tarih": {"type": "string"},
+          "ozet": {"type": "string", "maxLength": 900},
+          "ilkeler": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 4,
+            "items": {
+              "type": "object",
+              "properties": {
+                "ilke": {"type": "string", "maxLength": 400},
+                "alinti": {"type": "string", "minLength": 20, "maxLength": 450},
+                "etki": {"type": "string", "enum": ["lehe", "aleyhe", "notr"]}
+              },
+              "required": ["ilke", "alinti", "etki"],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": ["id", "karar_no", "daire", "tarih", "ozet", "ilkeler"],
+        "additionalProperties": false
+      }
+    },
+    "uygulanabilir_ilkeler": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "properties": {
+          "ilke": {"type": "string", "maxLength": 500},
+          "dayanak": {"type": "array", "minItems": 1, "items": {"type": "string"}}
+        },
+        "required": ["ilke", "dayanak"],
+        "additionalProperties": false
+      }
+    },
+    "guven": {"type": "string", "enum": ["yuksek", "orta", "dusuk"]},
+    "eksik_bilgi": {"type": "array", "items": {"type": "string"}}
+  },
+  "required": ["kararlar", "uygulanabilir_ilkeler", "guven", "eksik_bilgi"],
+  "additionalProperties": false
+}

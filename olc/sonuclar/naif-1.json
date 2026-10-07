@@ -1,0 +1,18 @@
+{
+  "usd": 0.9576709999999999,
+  "tur": 15,
+  "hata": false,
+  "modeller": {
+    "claude-opus-5-5": 0.9577
+  },
+  "belge": 11,
+  "alinti_dogru": 9,
+  "alinti_toplam": 9,
+  "yol": "naif",
+  "kos": 1,
+  "sure_sn": 195,
+  "dogru": 11,
+  "toplam": 11,
+  "tuzak": "1/1",
+  "secilen_isabet": "3/3"
+}

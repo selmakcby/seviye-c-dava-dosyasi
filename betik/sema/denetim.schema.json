@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "properties": {
+    "kontroller": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "no": {"type": "integer"},
+          "alinti_durumu": {"type": "string", "enum": ["ayni", "kucuk_fark", "anlam_farkli"]},
+          "destek": {"type": "string", "enum": ["destekliyor", "kismen", "desteklemiyor"]},
+          "aciklama": {"type": "string", "maxLength": 300}
+        },
+        "required": ["no", "alinti_durumu", "destek", "aciklama"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["kontroller"],
+  "additionalProperties": false
+}

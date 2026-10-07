@@ -1,0 +1,8 @@
+Ben bir hukuk bürosunda çalışıyorum. Davamız davamiz.md dosyasında. kararlar/ klasöründe mahkeme kararları var.
+
+1. kararlar/ klasöründeki her kararın davamızla ilgili olup olmadığına karar ver.
+2. Davamıza en çok benzeyen 3 kararı oku; her biri için kısa bir özet yaz ve davamıza uygulanabilecek ilkeleri, kararın metninden KELİMESİ KELİMESİNE alıntılarla göster.
+3. Davamıza uygulanabilecek ilkeleri toparla.
+
+En sonda, puanlama için, şu biçimde tek bir JSON bloğu ver:
+{"ilgili": {"01-....md": true, "02-....md": false, ...}, "supheli": ["şüpheli bulduğun dosyalar"], "secilen": ["okuduğun 3 dosya"], "alintilar": [{"dosya": "...md", "karar_no": "....", "alinti": "kelimesi kelimesine alıntı"}]}

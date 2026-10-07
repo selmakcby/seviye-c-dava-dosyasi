@@ -1,0 +1,212 @@
+{
+ "aciklama": "ilgili = karar, işverenler arasında kıdem tazminatının rücuu/paylaşımı konusunda emsal olabilir. alt_konu elle etiketlendi (karar metni okunarak). davamiz_alt_konu: davamıza en yakın alt konu; seçilen kararların bu alt konuda olması beklenir.",
+ "davamiz_alt_konu": "alt-isveren-rucu",
+ "cevaplar": {
+  "00-SAHTE-tuzak.md": {
+   "ilgili": false,
+   "supheli": true,
+   "alt_konu": "sahte-tuzak",
+   "karar_no": null
+  },
+  "01-emsal-2023-1300.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2023/1300"
+  },
+  "02-emsal-2025-912.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2025/912"
+  },
+  "03-emsal-2025-1551.md": {
+   "ilgili": false,
+   "alt_konu": "trafik-kazasi",
+   "karar_no": "2025/1551"
+  },
+  "04-emsal-2025-330.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2025/330"
+  },
+  "05-emsal-2024-854.md": {
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu",
+   "karar_no": "2024/854"
+  },
+  "06-emsal-2026-970.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2026/970"
+  },
+  "07-emsal-2023-386.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2023/386"
+  },
+  "08-emsal-2024-1205.md": {
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu",
+   "karar_no": "2024/1205"
+  },
+  "09-emsal-2026-1276.md": {
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu",
+   "karar_no": "2026/1276"
+  },
+  "10-emsal-2025-1641.md": {
+   "ilgili": false,
+   "alt_konu": "trafik-kazasi",
+   "karar_no": "2025/1641"
+  },
+  "11-emsal-2025-66.md": {
+   "ilgili": true,
+   "alt_konu": "ardisik-isveren-rucu",
+   "karar_no": "2025/66"
+  },
+  "12-emsal-2023-1042.md": {
+   "ilgili": true,
+   "alt_konu": "ardisik-isveren-rucu",
+   "karar_no": "2023/1042"
+  },
+  "13-emsal-2023-1153.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2023/1153"
+  },
+  "14-emsal-2023-2145.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2023/2145"
+  },
+  "15-emsal-2026-1151.md": {
+   "ilgili": false,
+   "alt_konu": "sirket-feshi",
+   "karar_no": "2026/1151"
+  },
+  "16-emsal-2024-1744.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2024/1744"
+  },
+  "17-emsal-2022-1192.md": {
+   "ilgili": true,
+   "alt_konu": "ardisik-isveren-rucu",
+   "karar_no": "2022/1192"
+  },
+  "18-emsal-2026-1358.md": {
+   "ilgili": false,
+   "alt_konu": "trafik-kazasi",
+   "karar_no": "2026/1358"
+  },
+  "19-emsal-2024-411.md": {
+   "ilgili": false,
+   "alt_konu": "insaat-sozlesmesi",
+   "karar_no": "2024/411"
+  },
+  "20-emsal-2023-55.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2023/55"
+  },
+  "21-emsal-2023-1065.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2023/1065"
+  },
+  "22-emsal-2023-1600.md": {
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu",
+   "karar_no": "2023/1600"
+  },
+  "23-emsal-2019-291.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2019/291"
+  },
+  "24-emsal-2023-579.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2023/579"
+  },
+  "25-emsal-2024-159.md": {
+   "ilgili": false,
+   "alt_konu": "kira-tahliye",
+   "karar_no": "2024/159"
+  },
+  "26-emsal-2025-333.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2025/333"
+  },
+  "27-emsal-2024-1667.md": {
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu",
+   "karar_no": "2024/1667"
+  },
+  "28-emsal-2024-210.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2024/210"
+  },
+  "29-emsal-2021-2204.md": {
+   "ilgili": false,
+   "alt_konu": "trafik-kazasi",
+   "karar_no": "2021/2204"
+  },
+  "30-emsal-2025-1404.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2025/1404"
+  },
+  "31-emsal-2024-1333.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2024/1333"
+  },
+  "32-emsal-2024-1733.md": {
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu",
+   "karar_no": "2024/1733"
+  },
+  "33-emsal-2021-858.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2021/858"
+  },
+  "34-emsal-2023-1716.md": {
+   "ilgili": false,
+   "alt_konu": "trafik-kazasi",
+   "karar_no": "2023/1716"
+  },
+  "35-emsal-2024-927.md": {
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu",
+   "karar_no": "2024/927"
+  },
+  "36-emsal-2024-672.md": {
+   "ilgili": false,
+   "alt_konu": "kira-tahliye",
+   "karar_no": "2024/672"
+  },
+  "37-emsal-2024-531.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2024/531"
+  },
+  "38-emsal-2024-629.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2024/629"
+  },
+  "39-emsal-2022-429.md": {
+   "ilgili": false,
+   "alt_konu": "sozlesme-tazminat",
+   "karar_no": "2022/429"
+  },
+  "40-emsal-2022-1232.md": {
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu",
+   "karar_no": "2022/1232"
+  }
+ }
+}

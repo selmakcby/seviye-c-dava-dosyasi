@@ -1,0 +1,24 @@
+{
+  "usd": 0.6213393,
+  "tur": 5,
+  "hata": false,
+  "modeller": {
+    "claude-haiku-4-5-20251001": 0.0248,
+    "claude-opus-5-5": 0.5486,
+    "claude-sonnet-5-5": 0.048
+  },
+  "belge": 41,
+  "alinti_dogru": 8,
+  "alinti_toplam": 8,
+  "effort": [
+    "low",
+    "high"
+  ],
+  "yol": "kademe",
+  "kos": 2,
+  "sure_sn": 229,
+  "dogru": 41,
+  "toplam": 41,
+  "tuzak": "1/1",
+  "secilen_isabet": "3/3"
+}

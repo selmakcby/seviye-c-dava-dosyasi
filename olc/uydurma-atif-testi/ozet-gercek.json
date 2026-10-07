@@ -1,0 +1,150 @@
+{
+  "ozet": {
+    "kararlar": [
+      {
+        "id": "06-emsal-2026-970.md",
+        "karar_no": "2026/970 (Dosya No 2025/518)",
+        "daire": "Erzurum Bölge Adliye Mahkemesi 3. Hukuk Dairesi",
+        "tarih": "03/07/2026",
+        "ozet": "Asıl işveren konumundaki davacı, emekli olan işçiye kıdem tazminatı ve yıllık izin ücreti ödemiş, sonra bu tutarları önceki üst işverenlerden ve alt işverenden dönemleri oranında geri istemiştir. İlk derece mahkemesi davayı kabul etmiştir. BAM, davacı ile davalı elektrik şirketleri arasında hizmet alımı değil işyeri devri bulunduğunu, bu yüzden 1475/14 uyarınca devredenin sorumluluğunun işçiyi çalıştırdığı süre ve devir anındaki ücretle sınırlı olduğunu söylemiştir. Yıllık izin ücretinden ise son alt işverenin sorumlu olduğunu belirtmiş, eksik inceleme nedeniyle kararı kaldırmıştır.",
+        "ilkeler": [
+          {
+            "ilke": "İşyeri devrinde devreden işverenin kıdem tazminatı sorumluluğu, işçiyi çalıştırdığı süre ve devir anındaki ücretle sınırlıdır.",
+            "alinti": "dolayısıyla 1475 sayılı yasanın 14. maddesi uyarınca iş yerini devreden davalı işverenin kıdem tazminatından sorumluluğunun işçiyi çalıştırdığı sürelerle ve devir esnasındaki işçinin aldığı ücret seviyesiyle sınırlı olduğu",
+            "etki": "notr"
+          },
+          {
+            "ilke": "Yıllık izin ücreti ve fer'ilerinden son alt işveren sorumludur.",
+            "alinti": "yıllık izin alacağı yönünden ise bu alacak kaleminden ve fer'ilerine ilişkin ödemeden son alt işverenin sorumlu olduğu gözetilerek denetime elverişli alınacak bilirkişi raporu doğrultusunda sonuca göre karar verilmesi gerekirken yazılı şekilde hüküm tesisi doğru görülmemiştir.",
+            "etki": "aleyhe"
+          }
+        ]
+      },
+      {
+        "id": "30-emsal-2025-1404.md",
+        "karar_no": "metinde yok",
+        "daire": "Antalya Bölge Adliye Mahkemesi 11. Hukuk Dairesi",
+        "tarih": "25/12/2025",
+        "ozet": "Kamu kurumu, emekli olan üç işçinin kıdem tazminatının tamamını ödemiş ve bunu son yüklenicinin hakedişinden kesmiştir. İlk derece mahkemesi, yüklenicinin yalnızca işçileri kendisinin çalıştırdığı dönemden sorumlu olduğunu kabul etmiş ve fazladan kesilen tutarın iadesine hükmetmiştir. BAM bu kararı onamış, idarenin istinafını esastan reddetmiştir. Gerekçesi: işyeri devri hükümleri asıl işveren ile alt işveren arasındaki iç ilişkiye uygulanmaz; kıdem tazminatının tamamını hakedişten kesmek usul ve yasaya aykırıdır.",
+        "ilkeler": [
+          {
+            "ilke": "Yüklenicinin, asıl işverenin ödediği kıdem tazminatından sorumluluğu, işçiyi kendisinin çalıştırdığı dönemle sınırlıdır. İşyeri devri hükümleri iç ilişkide uygulanmaz.",
+            "alinti": "davalı asıl işveren tarafından dava dışı işçilere ödenen kıdem tazminatlarından davacı yüklenicilerin dava dışı işçileri çalıştırdığı dönemle sınırlı olarak sorumluluğunun bulunduğu, işyeri devri hükümlerinin asıl işveren - alt işveren arasındaki iç ilişkide uygulama alanının olmadığı",
+            "etki": "lehe"
+          },
+          {
+            "ilke": "Kıdem tazminatının tamamını hakedişten kesmek hukuka aykırıdır; fazla kesilen tutar iade edilmelidir.",
+            "alinti": "işçilere ödenen kıdem tazminatlarının tamamının davacı yüklenicilerin hak edişinden kesilmesinin usul ve yasaya aykırı olduğu",
+            "etki": "lehe"
+          },
+          {
+            "ilke": "Asıl işveren, yüklenicinin dönemine düşmeyen kısmı o yükleniciye rücu edemez.",
+            "alinti": "davalı tarafın hesaplanan bu miktarlar dışında kalan kıdem tazminatı ödemelerini davacılara rücu hakkının bulunmadığı ve davacıların hakedişinden fazladan yapılan kesintilerin iadesinin gerektiği anlaşılmış olmakla",
+            "etki": "lehe"
+          }
+        ]
+      },
+      {
+        "id": "02-emsal-2025-912.md",
+        "karar_no": "2025/912 (Esas 2020/1455)",
+        "daire": "Ankara Bölge Adliye Mahkemesi 23. Hukuk Dairesi",
+        "tarih": "30/10/2025",
+        "ozet": "Kamu kurumu, işçiye ödediği kıdem tazminatının tamamını temizlik yüklenicisinin hakedişinden kesmiştir. İlk derece mahkemesi şartnameye ve takas-mahsuba dayanarak davayı reddetmiştir. BAM bu kararı kaldırmıştır. Gerekçesi: art arda gelen yükleniciler, kıdem tazminatının tamamından işçiyi çalıştırdıkları dönemle orantılı olarak sorumludur; ihbar tazminatı ve yıllık izin ücretinden ise son yüklenici sorumludur. Dosya, yüklenici sayısı ve son yüklenicinin kim olduğu tespit edilerek yeniden karar verilmek üzere geri gönderilmiştir.",
+        "ilkeler": [
+          {
+            "ilke": "Sözleşmede asıl işverenin sorumlu olacağına dair hüküm yoksa ve işçinin ücreti sözleşme bedeline dahilse, asıl işveren ödediğini yüklenicilerden isteyebilir.",
+            "alinti": "İşçilik alacakları işveren tarafından ödenen işçinin yüklenici işçisi olması, sözleşme ücretine işçinin ücret ve sosyal haklarının dahil olması, işverenin işçilik alacaklarından sorumlu olacağına dair sözleşmede bir hüküm bulunmaması hususları nazara alındığında davacı işverenin işçiyi çalıştıran yüklenicilerden ödediği bedeli ve ferilerinin tamamını talep etme hakkı bulunduğunun kabulü gerekir.",
+            "etki": "aleyhe"
+          },
+          {
+            "ilke": "Kıdem tazminatında her yüklenici, işçiyi çalıştırdığı dönemle orantılı sorumludur.",
+            "alinti": "İşçiye ödenen kıdem tazminatı iş sözleşmesinin feshedildiği tarihteki giydirilmiş ücret üzerinden hesaplanmakta olup bu kıdem tazminatının tamamından işçiyi çalıştırdıkları dönemle orantılı olarak yükleniciler işverene karşı sorumludurlar.",
+            "etki": "lehe"
+          },
+          {
+            "ilke": "Yıllık izin ücreti ve ihbar tazminatından son yüklenici sorumludur.",
+            "alinti": "Sözleşmeyi feshedenin son yüklenici olduğu durumda yıllık izinlerin bu fesih ile ücrete dönüştüğü gözönüne alındığında yıllık izin ücretinden de son yüklenici sorumlu olacaktır. İhbar tazminatından da son işveren sorumludur.",
+            "etki": "aleyhe"
+          }
+        ]
+      },
+      {
+        "id": "04-emsal-2025-330.md",
+        "karar_no": "2025/330 (Esas 2021/781)",
+        "daire": "Ankara Bölge Adliye Mahkemesi 23. Hukuk Dairesi",
+        "tarih": "09/04/2025",
+        "ozet": "Asıl işveren, emekli olan işçiye kıdem tazminatı ödemiş ve iki alt işverene rücu davası açmıştır. Alt işveren, İş Kanunu 112. madde ve 7166 sayılı Kanun nedeniyle sorumlu olmadığını, olsa bile yarı yarıya sorumlu olacağını savunmuştur. İlk derece mahkemesi, her alt işverenin kendi çalıştırdığı dönem için tam sorumlu olduğunu kabul etmiştir. BAM bu esası onamış, yalnızca faizi düzeltmiştir: ihtarla temerrüt yoksa faiz ödeme tarihinden değil dava tarihinden başlar.",
+        "ilkeler": [
+          {
+            "ilke": "Asıl işveren, ödediği kıdem tazminatını her alt işverenden, işçiyi çalıştırdığı dönemle sınırlı olarak tamamen rücu edebilir. Yarı yarıya paylaşım uygulanmamıştır.",
+            "alinti": "davacı asıl işverenin, davalı taşeronlar işçisi ...'e ödediği kıdem tazminatını, davalı alt taşeronlardan işçiyi çalıştırdıkları dönemle sınırlı olmak üzere tamamen rücu hakkına sahip olunduğundan",
+            "etki": "notr"
+          },
+          {
+            "ilke": "Rücu alacağına ihtarla temerrüt sağlanmadıysa faiz dava tarihinden işler.",
+            "alinti": "Bu durumda davalının miktar ve ödeme talebi içeren bir ihtarname ile temerrüde düşürüldüğünün iddia edilmediği ve ihtarname sunulmadığı gözetilerek, kabul edilen alacağa dava tarihinden itibaren faiz yürütülmesi gerekirken ödeme tarihinden itibaren faiz yürütülmesi doğru değildir.",
+            "etki": "lehe"
+          }
+        ]
+      }
+    ],
+    "uygulanabilir_ilkeler": [
+      {
+        "ilke": "Art arda gelen alt işverenler/yükleniciler, asıl işverenin ödediği kıdem tazminatından yalnızca işçiyi kendilerinin çalıştırdığı dönemle orantılı olarak sorumludur. Müvekkil 9 yılın tamamından değil, yalnızca 14 aylık kendi döneminden sorumlu tutulmalıdır.",
+        "dayanak": [
+          "30-emsal-2025-1404.md",
+          "02-emsal-2025-912.md",
+          "04-emsal-2025-330.md"
+        ]
+      },
+      {
+        "ilke": "Sözleşmede açık hüküm yoksa ve işçi ücreti sözleşme bedeline dahilse, iç ilişkide asıl işveren kendi döneme düşen kısmı yükleniciden tamamen rücu edebilir. Yarı yarıya paylaşım bu kararlarda kabul görmemiştir; bu nokta müvekkil açısından aleyhedir.",
+        "dayanak": [
+          "02-emsal-2025-912.md",
+          "04-emsal-2025-330.md"
+        ]
+      },
+      {
+        "ilke": "İşyeri devri kuralları (son işverenin tamamdan sorumlu olması) asıl işveren ile alt işveren arasındaki iç ilişkide uygulanmaz. Kıdem tazminatının tamamının son yüklenicinin hakedişinden kesilmesi hukuka aykırıdır ve fazla kesinti iade edilmelidir.",
+        "dayanak": [
+          "30-emsal-2025-1404.md",
+          "02-emsal-2025-912.md"
+        ]
+      },
+      {
+        "ilke": "Yıllık izin ücreti ve ihbar tazminatından son yüklenici sorumlu tutulmaktadır. Kesinti bu kalemleri de içeriyorsa, bu kalemlerde müvekkil aleyhine sonuç çıkabilir.",
+        "dayanak": [
+          "02-emsal-2025-912.md",
+          "06-emsal-2026-970.md"
+        ]
+      },
+      {
+        "ilke": "Rücu alacağına ihtarla temerrüt sağlanmamışsa faiz dava tarihinden başlatılmıştır. Bu ilke, kurumun karşı alacak veya faiz talepleri değerlendirilirken dikkate alınabilir.",
+        "dayanak": [
+          "04-emsal-2025-330.md"
+        ]
+      }
+    ],
+    "guven": "orta",
+    "eksik_bilgi": [
+      "Hizmet alım sözleşmesinin ve teknik şartnamenin tam metni gerekli. Özellikle 'işçi haklarının ödenmesi yükleniciye aittir' gibi genel bir hüküm olup olmadığı önemli; 02 no'lu dosyada ilk derece mahkemesi böyle bir genel hükmü kıdem tazminatını da kapsayacak şekilde yorumlamıştı.",
+      "Sözleşmenin imza tarihi ve 4857 s. Kanun 112. madde (6552 sayılı Kanun değişikliği; 7166 sayılı Kanun ve AYM iptal kararı) kapsamına girip girmediği bilinmiyor.",
+      "Kesilen tutarın kalem dökümü yok: yalnızca kıdem tazminatı mı, yoksa yıllık izin ücreti veya ihbar tazminatı da var mı?",
+      "İşçinin her yüklenicideki çalışma süresini gösteren SGK kayıtları, fesih tarihindeki giydirilmiş ücret ve önceki yüklenicilerin ödeme yapıp yapmadığı bilinmiyor.",
+      "Kesintinin yapıldığı hakediş tarihi, teminatın durumu ve kuruma ihtarname gönderilip gönderilmediği bilinmiyor.",
+      "Süre kontrolü avukat tarafından yapılmalı.",
+      "06 no'lu karar hizmet alımı değil işyeri devri olgusuna dayanıyor; bu nedenle davamıza doğrudan emsal değeri sınırlı.",
+      "Soru 3'e (kurumun hakedişten kesinti yapması veya teminatı iade etmemesi) özel bir ilke yalnızca 30 no'lu kararda var. Teminat iadesine ilişkin karar bulunmuyor."
+    ]
+  },
+  "maliyet": [
+    {
+      "basamak": "2 · Opus okuma (effort low)",
+      "model": "claude-opus-5-5",
+      "usd": 0.40388,
+      "sure_sn": 43.5,
+      "cagri": 1,
+      "effort": "low"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+ "kaynak": "https://emsal.uyap.gov.tr",
+ "erisim_tarihi": "2026-10-07",
+ "not": "Arama: emsal.uyap.gov.tr/aramalist (\"kıdem tazminatı\", \"trafik kazası\", \"yoksulluk nafakası\", ihtiyaç nedeniyle tahliye). İkiz kayıtlar ve konusu belirsiz 2 karar çıkarıldı.",
+ "kararlar": [
+  {
+   "id": "946997100",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 45. Hukuk Dairesi",
+   "esasNo": "2020/1755",
+   "kararNo": "2023/1300",
+   "kararTarihi": "27.09.2023",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "1174960700",
+   "daire": "Ankara Bölge Adliye Mahkemesi 23. Hukuk Dairesi",
+   "esasNo": "2020/1455",
+   "kararNo": "2025/912",
+   "kararTarihi": "30.10.2025",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "1173476600",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 9. Hukuk Dairesi",
+   "esasNo": "2022/2296",
+   "kararNo": "2025/1551",
+   "kararTarihi": "02.10.2025",
+   "ilgili": false,
+   "alt_konu": "trafik-kazasi"
+  },
+  {
+   "id": "1134257900",
+   "daire": "Ankara Bölge Adliye Mahkemesi 23. Hukuk Dairesi",
+   "esasNo": "2021/781",
+   "kararNo": "2025/330",
+   "kararTarihi": "09.04.2025",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "1054049300",
+   "daire": "Samsun Bölge Adliye Mahkemesi 5. Hukuk Dairesi",
+   "esasNo": "2024/539",
+   "kararNo": "2024/854",
+   "kararTarihi": "07.05.2024",
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu"
+  },
+  {
+   "id": "1225114700",
+   "daire": "Erzurum Bölge Adliye Mahkemesi 3. Hukuk Dairesi",
+   "esasNo": "2025/518",
+   "kararNo": "2026/970",
+   "kararTarihi": "03.07.2026",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "873005100",
+   "daire": "Kayseri Bölge Adliye Mahkemesi 6. Hukuk Dairesi",
+   "esasNo": "2023/403",
+   "kararNo": "2023/386",
+   "kararTarihi": "08.03.2023",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "1066495000",
+   "daire": "Samsun Bölge Adliye Mahkemesi 5. Hukuk Dairesi",
+   "esasNo": "2024/777",
+   "kararNo": "2024/1205",
+   "kararTarihi": "11.09.2024",
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu"
+  },
+  {
+   "id": "1228695700",
+   "daire": "Samsun Bölge Adliye Mahkemesi 5. Hukuk Dairesi",
+   "esasNo": "2026/419",
+   "kararNo": "2026/1276",
+   "kararTarihi": "17.09.2026",
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu"
+  },
+  {
+   "id": "1178023900",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 40. Hukuk Dairesi",
+   "esasNo": "2025/1147",
+   "kararNo": "2025/1641",
+   "kararTarihi": "06.11.2025",
+   "ilgili": false,
+   "alt_konu": "trafik-kazasi"
+  },
+  {
+   "id": "1116906700",
+   "daire": "Ankara Bölge Adliye Mahkemesi 21. Hukuk Dairesi",
+   "esasNo": "2022/1649",
+   "kararNo": "2025/66",
+   "kararTarihi": "11.02.2025",
+   "ilgili": true,
+   "alt_konu": "ardisik-isveren-rucu"
+  },
+  {
+   "id": "911295400",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 13. Hukuk Dairesi",
+   "esasNo": "2023/1117",
+   "kararNo": "2023/1042",
+   "kararTarihi": "22.06.2023",
+   "ilgili": true,
+   "alt_konu": "ardisik-isveren-rucu"
+  },
+  {
+   "id": "940703700",
+   "daire": "Bursa Bölge Adliye Mahkemesi 5. Hukuk Dairesi",
+   "esasNo": "2020/1856",
+   "kararNo": "2023/1153",
+   "kararTarihi": "13.07.2023",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "986695700",
+   "daire": "İzmir Bölge Adliye Mahkemesi 17. Hukuk Dairesi",
+   "esasNo": "2020/688",
+   "kararNo": "2023/2145",
+   "kararTarihi": "22.11.2023",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "1219532800",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 12. Hukuk Dairesi",
+   "esasNo": "2023/2194",
+   "kararNo": "2026/1151",
+   "kararTarihi": "18.06.2026",
+   "ilgili": false,
+   "alt_konu": "sirket-feshi"
+  },
+  {
+   "id": "1217852900",
+   "daire": "Bursa Bölge Adliye Mahkemesi 5. Hukuk Dairesi",
+   "esasNo": "2021/2289",
+   "kararNo": "2024/1744",
+   "kararTarihi": "14.11.2024",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "799128700",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 13. Hukuk Dairesi",
+   "esasNo": "2020/1111",
+   "kararNo": "2022/1192",
+   "kararTarihi": "15.09.2022",
+   "ilgili": true,
+   "alt_konu": "ardisik-isveren-rucu"
+  },
+  {
+   "id": "1215508600",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 9. Hukuk Dairesi",
+   "esasNo": "2023/1705",
+   "kararNo": "2026/1358",
+   "kararTarihi": "04.06.2026",
+   "ilgili": false,
+   "alt_konu": "trafik-kazasi"
+  },
+  {
+   "id": "1056361100",
+   "daire": "Bakırköy 5. Asliye Ticaret Mahkemesi",
+   "esasNo": "2021/630",
+   "kararNo": "2024/411",
+   "kararTarihi": "17.04.2024",
+   "ilgili": false,
+   "alt_konu": "insaat-sozlesmesi"
+  },
+  {
+   "id": "861615000",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 18. Hukuk Dairesi",
+   "esasNo": "2020/1885",
+   "kararNo": "2023/55",
+   "kararTarihi": "18.01.2023",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "951659500",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi",
+   "esasNo": "2023/1188",
+   "kararNo": "2023/1065",
+   "kararTarihi": "19.10.2023",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "988187300",
+   "daire": "Samsun Bölge Adliye Mahkemesi 5. Hukuk Dairesi",
+   "esasNo": "2023/1058",
+   "kararNo": "2023/1600",
+   "kararTarihi": "16.11.2023",
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu"
+  },
+  {
+   "id": "480302100",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi",
+   "esasNo": "2017/1998",
+   "kararNo": "2019/291",
+   "kararTarihi": "21.02.2019",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "931277200",
+   "daire": "Bursa Bölge Adliye Mahkemesi 5. Hukuk Dairesi",
+   "esasNo": "2020/793",
+   "kararNo": "2023/579",
+   "kararTarihi": "14.04.2023",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "992076000",
+   "daire": "Bursa 3. Asliye Ticaret Mahkemesi",
+   "esasNo": "2024/105",
+   "kararNo": "2024/159",
+   "kararTarihi": "12.02.2024",
+   "ilgili": false,
+   "alt_konu": "kira-tahliye"
+  },
+  {
+   "id": "1134268600",
+   "daire": "Ankara Bölge Adliye Mahkemesi 23. Hukuk Dairesi",
+   "esasNo": "2021/800",
+   "kararNo": "2025/333",
+   "kararTarihi": "09.04.2025",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "1106823700",
+   "daire": "Samsun Bölge Adliye Mahkemesi 5. Hukuk Dairesi",
+   "esasNo": "2024/858",
+   "kararNo": "2024/1667",
+   "kararTarihi": "11.12.2024",
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu"
+  },
+  {
+   "id": "1007335200",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 45. Hukuk Dairesi",
+   "esasNo": "2021/129",
+   "kararNo": "2024/210",
+   "kararTarihi": "14.02.2024",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "718387600",
+   "daire": "İstanbul Bölge Adliye Mahkemesi 8. Hukuk Dairesi",
+   "esasNo": "2019/4771",
+   "kararNo": "2021/2204",
+   "kararTarihi": "30.12.2021",
+   "ilgili": false,
+   "alt_konu": "trafik-kazasi"
+  },
+  {
+   "id": "1190640900",
+   "daire": "Antalya Bölge Adliye Mahkemesi 11. Hukuk Dairesi",
+   "esasNo": "2022/2394",
+   "kararNo": "2025/1404",
+   "kararTarihi": "25.12.2025",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "1072695500",
+   "daire": "Ankara Bölge Adliye Mahkemesi 23. Hukuk Dairesi",
+   "esasNo": "2020/513",
+   "kararNo": "2024/1333",
+   "kararTarihi": "09.10.2024",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "1106826800",
+   "daire": "Samsun Bölge Adliye Mahkemesi 5. Hukuk Dairesi",
+   "esasNo": "2024/1109",
+   "kararNo": "2024/1733",
+   "kararTarihi": "19.12.2024",
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu"
+  },
+  {
+   "id": "715156600",
+   "daire": "Trabzon Bölge Adliye Mahkemesi 4. Hukuk Dairesi",
+   "esasNo": "2021/756",
+   "kararNo": "2021/858",
+   "kararTarihi": "04.06.2021",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "977297600",
+   "daire": "Ankara Bölge Adliye Mahkemesi 35. Hukuk Dairesi",
+   "esasNo": "2023/1397",
+   "kararNo": "2023/1716",
+   "kararTarihi": "27.12.2023",
+   "ilgili": false,
+   "alt_konu": "trafik-kazasi"
+  },
+  {
+   "id": "1054054400",
+   "daire": "Samsun Bölge Adliye Mahkemesi 5. Hukuk Dairesi",
+   "esasNo": "2024/649",
+   "kararNo": "2024/927",
+   "kararTarihi": "20.05.2024",
+   "ilgili": true,
+   "alt_konu": "6111-kurumlar-arasi-rucu"
+  },
+  {
+   "id": "1057118600",
+   "daire": "İstanbul 12. Asliye Ticaret Mahkemesi",
+   "esasNo": "2024/496",
+   "kararNo": "2024/672",
+   "kararTarihi": "03.09.2024",
+   "ilgili": false,
+   "alt_konu": "kira-tahliye"
+  },
+  {
+   "id": "1010078900",
+   "daire": "Ankara Bölge Adliye Mahkemesi 23. Hukuk Dairesi",
+   "esasNo": "2020/546",
+   "kararNo": "2024/531",
+   "kararTarihi": "27.03.2024",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "1018353600",
+   "daire": "Ankara Bölge Adliye Mahkemesi 23. Hukuk Dairesi",
+   "esasNo": "2019/2412",
+   "kararNo": "2024/629",
+   "kararTarihi": "24.04.2024",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  },
+  {
+   "id": "951636500",
+   "daire": "Ankara 12. Asliye Ticaret Mahkemesi",
+   "esasNo": "2021/236",
+   "kararNo": "2022/429",
+   "kararTarihi": "01.06.2022",
+   "ilgili": false,
+   "alt_konu": "sozlesme-tazminat"
+  },
+  {
+   "id": "820597800",
+   "daire": "Adana Bölge Adliye Mahkemesi 9. Hukuk Dairesi",
+   "esasNo": "2020/771",
+   "kararNo": "2022/1232",
+   "kararTarihi": "01.11.2022",
+   "ilgili": true,
+   "alt_konu": "alt-isveren-rucu"
+  }
+ ]
+}
